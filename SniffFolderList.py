@@ -1,10 +1,10 @@
 import os
 
 # Define the target folder path
-folder_path = r"F:\VintageWebsite\assets\images\websites"  # Update this path
+folder_path = r"TARGET FOLDER PATH"  # Update this path
 
 # Define the output text file
-output_file = r"F:\VintageWebsite\assets\images\websites\file_list.txt"  # Update as needed
+output_file = r"TARGET FOLDER PATH\file_list.txt"  # Update as needed
 
 # Get list of files in the folder
 file_list = os.listdir(folder_path)
